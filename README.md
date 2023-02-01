@@ -1,1 +1,1 @@
-# Exercise-3
+<p>"The purpose of our lives is to be happy." -Dalai Lama</p>
